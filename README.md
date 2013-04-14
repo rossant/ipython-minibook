@@ -42,7 +42,7 @@ You can view the notebooks in the IPython notebook viewer (see links below).
 
 ### Chapter 2: Interactive Work with IPython
 
-  * [Example 1](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter2/201-facebook-data-download.ipynb). We download and extract a social graph dataset (ego graphs of anonymous Facebook users, obtained on the [SNAP project](snap.stanford.edu/data/) from Stanford University). This example illustrates how to interact with the filesystem from IPython.
+  * [Example 1](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter2/201-facebook-data-download.ipynb). We download and extract a social graph dataset (ego graphs of anonymous Facebook users, obtained on the [SNAP project](http://snap.stanford.edu/data/) from Stanford University). This example illustrates how to interact with the filesystem from IPython.
   
   * [Example 2](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter2/202-facebook-data-explore.ipynb). Here we explore with IPython the dataset downloaded in the previous example.
   
@@ -51,11 +51,11 @@ You can view the notebooks in the IPython notebook viewer (see links below).
 
 ### Chapter 3: Numerical Computing with IPython
 
-  * [Example 1](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter3/301-vector-computations.ipynb). We introduce here the very basics of vector computing and NumPy multidimensional arrays.
+  * [Example 1](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter3/301-vector-computations.ipynb). We introduce here the very basics of vector computing and NumPy multidimensional arrays. We show with a simple example what performance gains we can expect by using NumPy instead of pure Python loops.
   
   * [Example 2](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter3/302-multiplication-tables.ipynb). We generate multiplication tables with different methods, showing the performance benefits of using vectorized computations and broadcasting.
   
-  * [Example 3](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter3/303-cities-data-explore.ipynb). We download and analyze a new dataset containing the geographical coordinates of all cities in the world, as well as the popultion for some of them. [This free dataset](http://www.maxmind.com/en/worldcities) has been created by [MaxMind](http://www.maxmind.com/) and is available.
+  * [Example 3](http://nbviewer.ipython.org/url/raw.github.com/rossant/ipython-minibook/master/chapter3/303-cities-data-explore.ipynb). We download and analyze a new dataset containing the geographical coordinates of all cities in the world, as well as the population for some of them. [This free dataset](http://www.maxmind.com/en/worldcities) has been created by [MaxMind](http://www.maxmind.com/).
 
 
 ### Chapter 4: Interactive Plotting and Graphical Interfaces
