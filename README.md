@@ -11,7 +11,7 @@ This book is a **beginner-level introduction to IPython** for *interactive Pytho
 
 The book first introduces IPython for interactive Python and shell programming. It shows how IPython can considerably improve the productivity of a developer who creates, debugs, benchmarks and profiles Python code.
 
-Then, the reader learns the very basics of vector computing, and discovers how to load and analyze numerical and tabular data with NumPy and Pandas. Then, the book shows the interactive visualization capabilities of the platform with Matplotlib, SciPy and PIL. It also contains a few image processing examples.
+Then, the reader learns the very basics of vector computing, and discovers how to load and analyze numerical and tabular data with NumPy and Pandas. The book shows the interactive visualization capabilities of the platform with Matplotlib, SciPy and PIL. It also contains a few image processing examples.
 
 Some techniques to accelerate Python code are also demonstrated, using either interactive parallel computing features from IPython (using MPI or not), or Cython to compile a portion of the code in C for really interesting speedups.
 
