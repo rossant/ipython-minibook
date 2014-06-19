@@ -1,4 +1,5 @@
 import IPython.core.magic as ipym
+import os
 
 @ipym.magics_class
 class CppMagics(ipym.Magics):
@@ -6,8 +7,8 @@ class CppMagics(ipym.Magics):
     def cpp(self, line, cell=None):
         """Compile, execute C++ code, and return the standard output."""
         # Define the source and executable filenames.
-        source_filename = 'temp.cpp'
-        program_filename = 'temp.exe'
+        source_filename = os.path.abspath('temp.cpp')
+        program_filename = os.path.abspath('temp.exe')
         # Write the code contained in the cell to the C++ file.
         with open(source_filename, 'w') as f:
             f.write(cell)
