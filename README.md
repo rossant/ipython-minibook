@@ -1,3 +1,5 @@
+**THIS REPOSITORY HAS MIGRATED [HERE](https://github.com/ipython-books/minibook-code)**
+
 Examples from the IPython mini-book
 ===================================
 
