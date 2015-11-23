@@ -1,4 +1,4 @@
-**THIS REPOSITORY HAS MIGRATED [HERE](https://github.com/ipython-books/minibook-code)**
+**UPDATE (2015): This is an old repo, [go here for the new edition](https://github.com/ipython-books/minibook-2nd-code)**
 
 Examples from the IPython mini-book
 ===================================
